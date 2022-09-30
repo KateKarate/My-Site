@@ -72,9 +72,8 @@ hr {
 }
 
 .bottom-cloud {
-  position: relative;
-  bottom: 300px;
-  right: 50px;
+  position: absolute;
+  left: calc(50% - 400px);
   width: 150px;
   height: 150px;
 }
